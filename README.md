@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-GIF walkthrough including all required, optional, and additional tasks:<br><br>
+GIF walkthrough including all required, optional, and additional user stories:<br><br>
 ![Alt text](https://github.com/flamencoflsh/Prework_Tabber_Fancy/blob/master/Tabber.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
