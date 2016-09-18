@@ -21,18 +21,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Ability to select aesthetic color themes (Sunburst & Dusk)
-- [X] Ability to use slider for granular percentage selection
-- [X] Ability to either use a slider or to manually enter default tip percentage for speed or precision
-- [X] Checks for boundary case (maximum bill amount)
-- [X] Ability to select different currencies 
+- [x] Ability to select aesthetic color themes (Sunburst & Dusk)
+- [x] Ability to use slider for granular percentage selection
+- [x] Ability to either use a slider or to manually enter default tip percentage for speed or precision
+- [x] Checks for boundary case (maximum bill amount)
+- [x] Ability to select different currencies 
 
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<img src='Prework_Tabber_Fancy/Tabber.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF walkthrough including all required, optional, and additional tasks:<br><br>
+![Alt text](https://github.com/flamencoflsh/Prework_Tabber_Fancy/blob/master/Tabber.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
